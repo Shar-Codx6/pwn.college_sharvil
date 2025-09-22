@@ -5,4 +5,5 @@ Just run command "hello"
 '''bash
 hello
 '''
+
 **Flag:** `pwn.college{YaM89HZXTgUw1phX041nw5YX4rH.QX3YjM1wyM2EzNzEzW}`
