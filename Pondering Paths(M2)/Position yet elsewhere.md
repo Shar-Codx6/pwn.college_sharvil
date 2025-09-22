@@ -9,4 +9,4 @@ cd /var/log
 /challenge/run
 ```
 
-**Flag:** `pwn.college{MdCi2zm6uSX4faTUCgVWu3Getuz.QX2QTN0wyM2EzNzEzW}`
+**Flag:** `pwn.college{4jAylTq7lWQV_H1UHUe5f98R2Se.QX4QTN0wyM2EzNzEzW}`

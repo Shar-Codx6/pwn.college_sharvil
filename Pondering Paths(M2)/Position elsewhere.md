@@ -9,4 +9,4 @@ cd /etc
 /challenge/run
 ```
 
-**Flag:** `pwn.college{MdCi2zm6uSX4faTUCgVWu3Getuz.QX2QTN0wyM2EzNzEzW}`
+**Flag:** `pwn.college{Q1f5G4ZDOL3wJNpJLgw893mWfxy.QX1QTN0wyM2EzNzEzW}`
