@@ -3,4 +3,7 @@ The challenge requires to execute the **run** file that is in the **challenge** 
 ## My solve
 execute '/challenge/run'
 
+```bash
+/challenge/run
+```
 **Flag:** `pwn.college{helloworld}`
