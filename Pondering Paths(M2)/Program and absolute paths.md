@@ -6,4 +6,4 @@ execute '/challenge/run'
 ```bash
 /challenge/run
 ```
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{Q1f5G4ZDOL3wJNpJLgw893mWfxy.QX1QTN0wyM2EzNzEzW}`

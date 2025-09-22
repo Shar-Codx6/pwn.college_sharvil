@@ -1,11 +1,11 @@
-# Position Thy Self
+# Position Elsewhere
 The challenge wants us to execute the **/challenge/run** program from a specific path that the shell is is located at.
 ## My solve
 execute /challenge/run
 
 ```bash
 /challenge/run
-cd /usr/share/zoneinfo/posix/Asia
+cd /etc
 /challenge/run
 ```
 
