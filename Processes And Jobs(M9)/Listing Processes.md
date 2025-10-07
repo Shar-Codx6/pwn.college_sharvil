@@ -17,7 +17,7 @@ hacker       166  0.0  0.0 231940  4160 pts/1    S    13:32   0:00 /run/dojo/bin
 hacker       175  0.0  0.0 233600  3840 pts/1    R+   13:32   0:00 ps aux
 hacker@processes~listing-processes:~$ /challenge/31172-run-24148
 Yahaha, you found me! Here is your flag:
-pwn.college{EG5cEF96Ki1qsNM8_tFPteGQNeP.QX4MDO0wyM2EzNzEzW}
+pwn.college{EG5cEF96Ki1qsNM8_tFPteGQNeP.QX4MDO0wyM2EzNzEzW} 
 Now I will sleep for a while (so that you could find me with 'ps')
 ```
 ## Incorrect tangents I went on
